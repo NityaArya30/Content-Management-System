@@ -1,0 +1,408 @@
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/appsettings.Development.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/appsettings.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/SignageBackend.exe
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/SignageBackend.deps.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/SignageBackend.runtimeconfig.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/SignageBackend.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.AssemblyReference.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfoInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfo.cs
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CoreCompileInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cs
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.SignageBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.build.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets.build.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/staticwebassets.development.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/scopedcss/bundle/SignageBackend.styles.css
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CopyComplete
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/refint/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/SignageBackend.genruntimeconfig.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/obj/Debug/net6.0/ref/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.AssemblyReference.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfoInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfo.cs
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CoreCompileInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.Development.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.exe
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.deps.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.runtimeconfig.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Core.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Identity.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Humanizer.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Mono.TextTemplating.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.CodeDom.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Memory.Data.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Json.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.SignageBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.build.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SignageBackend.props
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.build.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.development.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/scopedcss/bundle/SignageBackend.styles.css
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CopyComplete
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/refint/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.genruntimeconfig.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/ref/SignageBackend.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Core.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Identity.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Humanizer.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.CodeDom.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Json.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.SignageBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.build.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/scopedcss/bundle/SignageBackend.styles.css
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CopyComplete
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/refint/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/ref/SignageBackend.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.deps.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.runtimeconfig.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Core.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Identity.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Humanizer.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.CodeDom.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Json.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.AssemblyReference.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfoInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfo.cs
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CoreCompileInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.SignageBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.build.SignageBackend.props
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SignageBackend.props
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SignageBackend.props
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/scopedcss/bundle/SignageBackend.styles.css
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CopyComplete
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/refint/SignageBackend.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.genruntimeconfig.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend/obj/Debug/net6.0/ref/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.Development.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/appsettings.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Core.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Azure.Identity.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Humanizer.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.CodeDom.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Text.Json.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.BAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.SignageBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.build.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SignageBackend.props
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/scopedcss/bundle/SignageBackend.styles.css
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.csproj.CopyComplete
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/refint/SignageBackend.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/SignageBackend.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend/obj/Debug/net6.0/ref/SignageBackend.dll

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/css/style-starter.css" />
+
+  <link href="//fonts.googleapis.com/css?family=Nunito:300,400,600,700,800,900&display=swap" rel="stylesheet">
+
+  <title>React App</title>
+</head>
+
+<body class="sidebar-menu-collapsed">
+  <!-- <div class="se-pre-con"></div> -->
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <script src="%PUBLIC_URL%assets/js/jquery-1.10.2.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/jquery-3.3.1.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/scripts.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/Chart.min.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/utils.js"></script>
+
+  <script src="%PUBLIC_URL%/assets/js/bar.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/linechart.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/jquery.nicescroll.js"></script>
+  
+</body>
+</html>
+
+  
+
+
+  <script>
+    var closebtns = document.getElementsByClassName("close-grid");
+    var i;
+
+    for (i = 0; i < closebtns.length; i++) {
+      closebtns[i].addEventListener("click", function () {
+        this.parentElement.style.display = 'none';
+      });
+    }
+  </script>
+
+  <script>
+    $(function () {
+      $('.sidebar-menu-collapsed').click(function () {
+        $('body').toggleClass('noscroll');
+      })
+    });
+  </script>
+
+  <script src="%PUBLIC_URL%/assets/js/modernizr.js"></script>
+  <!-- <script>
+    $(window).load(function () {
+      // Animate loader off screen
+      $(".se-pre-con").fadeOut("slow");;
+    });
+  </script> -->
+
+  <script src="%PUBLIC_URL%/assets/js/bootstrap.min.js"></script>
+  
+  <!-- <script>
+    $(document).ready(function() {
+      setTimeout(function () {
+        $.getScript("%PUBLIC_URL%/assets/js/scripts.js");  
+        $.getScript("%PUBLIC_URL%/assets/jquery-ui.min.css"); 
+        $.getScript("%PUBLIC_URL%/assets/js/jquery-ui.min.js"); 
+      },10);
+      
+    });
+  </script> -->

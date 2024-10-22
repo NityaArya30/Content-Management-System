@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A80D367D-CEAB-4482-8F9D-27208B253D15}|Default">
+  <MonoDevelop.Ide.ItemProperties.SignageBackend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../SignageBackend.BAL/Services/PermissionServices.cs">
+    <Files>
+      <File FileName="../SignageBackend.BAL/Services/PermissionServices.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignageBackend">
+            <Node name="SignageBackend.BAL" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="PermissionServices.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,56 @@
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.deps.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.runtimeconfig.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.AssemblyReference.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfoInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfo.cs
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.CoreCompileInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/refint/SignageBackend.Common.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.genruntimeconfig.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/ref/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/refint/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/ref/SignageBackend.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.deps.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.runtimeconfig.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.AssemblyReference.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfoInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfo.cs
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.CoreCompileInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/refint/SignageBackend.Common.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.genruntimeconfig.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/ref/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/bin/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/refint/SignageBackend.Common.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/SignageBackend.Common.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.Common/obj/Debug/net6.0/ref/SignageBackend.Common.dll

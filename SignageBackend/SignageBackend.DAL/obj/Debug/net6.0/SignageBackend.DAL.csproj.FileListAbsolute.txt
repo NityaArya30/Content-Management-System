@@ -1,0 +1,56 @@
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.AssemblyReference.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfoInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfo.cs
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.CoreCompileInputs.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.deps.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.runtimeconfig.json
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/refint/SignageBackend.DAL.dll
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.pdb
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.genruntimeconfig.cache
+D:/Projects/Personal/WebSignage/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/ref/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/refint/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/ref/SignageBackend.DAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.deps.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.runtimeconfig.json
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.AssemblyReference.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfoInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfo.cs
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.CoreCompileInputs.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/refint/SignageBackend.DAL.dll
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.genruntimeconfig.cache
+/Users/deepakgulati/Desktop/WebmindsSignage/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/ref/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.deps.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.runtimeconfig.json
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/bin/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.AssemblyReference.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfoInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.AssemblyInfo.cs
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.csproj.CoreCompileInputs.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/refint/SignageBackend.DAL.dll
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.pdb
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/SignageBackend.DAL.genruntimeconfig.cache
+/Users/nityaarya/Desktop/WebmindsSignage 2/SignageBackend/SignageBackend.DAL/obj/Debug/net6.0/ref/SignageBackend.DAL.dll

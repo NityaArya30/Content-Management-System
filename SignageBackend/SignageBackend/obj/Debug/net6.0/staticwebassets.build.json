@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "viJnsEy92v2IrgLk9RVuOSperjl0zJzbfI8IeXUFdDI=",
+  "Source": "SignageBackend",
+  "BasePath": "_content/SignageBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,5 @@
+.DS_Store
+
+/SignageBackend/SignageBackend/.config/dotnet-tools.json
+*.dll
+*.so
